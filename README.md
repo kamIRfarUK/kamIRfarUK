@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-KamIRfarUK-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/kamirfaruk/)](https://www.linkedin.com/in/kamirfaruk/)
+[![Linkedin Badge](https://img.shields.io/badge/-Kamir%20Faruk-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/kamirfaruk/)](https://www.linkedin.com/in/kamirfaruk/)
 
 [![GitHub](https://img.shields.io/github/followers/kamIRfarUK?label=follow&style=social)](https://github.com/kamIRfarUK)
 
