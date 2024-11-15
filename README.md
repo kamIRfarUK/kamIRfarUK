@@ -7,11 +7,26 @@
 
 [![GitHub](https://img.shields.io/github/followers/kamIRfarUK?label=follow&style=social)](https://github.com/kamIRfarUK)
 
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/17kamIRfarUK/)
 
 
 
+<h3 align="center"><img src="https://img.icons8.com/material/24/26e07f/programming.png"/></a> Programming Languages and
+Tools <a href= "https://github.com/kamIRfarUK/"><img src="https://img.icons8.com/material/24/26e07f/hammer.png"/></a></h3>
+
+<p align="center">
+<img title="Java" height="50" src = 'https://www.vectorlogo.zone/logos/java/java-vertical.svg' width='40'/>
+  
+<img title="Selenium" height="50" src = 'https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg' width='40'/>
+<img title="Junit5" src = 'https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/junit5.svg' width='40'/>
+<img title="TestNG" src = 'https://static.javatpoint.com/tutorial/testng/images/testng-tutorial.png' width='40'/>
+<img title="Cucumber"  src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-ar21.svg" width='80'/>
+<img title="Maven" height="50" src = 'https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg' width='40'/>
+<img title="Docker" src = 'https://www.vectorlogo.zone/logos/docker/docker-icon.svg' width='50'/>
+<img title="Git" src = 'https://www.vectorlogo.zone/logos/github/github-ar21.svg' width='100'/>
+<img title="Postman" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width='40'/>
+<img title="Jenkins" src = 'https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg' width='40'/>
+</p>
 
 
 
