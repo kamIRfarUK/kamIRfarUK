@@ -22,8 +22,10 @@ Tools <a href= "https://github.com/kamIRfarUK/"><img src="https://img.icons8.com
 <img title="Junit5" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg' width='40'/>
 
 <img title="TestNG" src = 'https://static.javatpoint.com/tutorial/testng/images/testng-tutorial.png' width='40'/>
-<img title="Cucumber"  src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg' width='80'/>
+<img title="Cucumber"  src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain-wordmark.svg' width='80'/>
 
+    
+          
 <img title="Maven" height="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg' width='40'/>
 <img title="Docker" src = 'https://www.vectorlogo.zone/logos/docker/docker-icon.svg' width='50'/>
 <img title="Git" src = 'https://www.vectorlogo.zone/logos/github/github-ar21.svg' width='100'/>
