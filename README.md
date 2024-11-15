@@ -17,7 +17,8 @@ Tools <a href= "https://github.com/kamIRfarUK/"><img src="https://img.icons8.com
 <p align="center">
 <img title="Java" height="50" src = 'https://www.vectorlogo.zone/logos/java/java-vertical.svg' width='40'/>
   
-<img title="Selenium" height="50" src = 'https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg' width='40'/>
+<img title="Selenium" height="50"  src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg' width='40'/>
+
 <img title="Junit5" src = 'https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/junit5.svg' width='40'/>
 <img title="TestNG" src = 'https://static.javatpoint.com/tutorial/testng/images/testng-tutorial.png' width='40'/>
 <img title="Cucumber"  src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-ar21.svg" width='80'/>
