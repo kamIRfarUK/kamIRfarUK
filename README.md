@@ -28,7 +28,7 @@ Tools <a href= "https://github.com/kamIRfarUK/"><img src="https://img.icons8.com
           
 <img title="Maven" height="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg' width='40'/>
 <img title="Docker" src = 'https://www.vectorlogo.zone/logos/docker/docker-icon.svg' width='50'/>
-<img title="Git" src = 'https://www.vectorlogo.zone/logos/github/github-ar21.svg' width='100'/>
+<img title="Git" src = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg' width='100'/>
 <img title="Postman" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width='40'/>
 <img title="Jenkins" src = 'https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg' width='40'/>
 </p>
