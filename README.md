@@ -23,7 +23,7 @@ Tools <a href= "https://github.com/kamIRfarUK/"><img src="https://img.icons8.com
 
 <img title="TestNG" src = 'https://static.javatpoint.com/tutorial/testng/images/testng-tutorial.png' width='40'/>
 <img title="Cucumber"  src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-ar21.svg" width='80'/>
-<img title="Maven" height="50" src = 'https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg' width='40'/>
+<img title="Maven" height="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg' width='40'/>
 <img title="Docker" src = 'https://www.vectorlogo.zone/logos/docker/docker-icon.svg' width='50'/>
 <img title="Git" src = 'https://www.vectorlogo.zone/logos/github/github-ar21.svg' width='100'/>
 <img title="Postman" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width='40'/>
