@@ -54,10 +54,36 @@ Tools <a href= "https://github.com/kamIRfarUK/"><img src="https://img.icons8.com
 
 
 
-<h3 align="center"><a href= "https://github.com/kamIRfarUK/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a>
-Github
-Stats <a href= "https://github.com/dilshan5/"><img src="https://img.icons8.com/external-wanicon-two-tone-wanicon/64/000000/external-stats-online-shopping-wanicon-two-tone-wanicon.png"/></a></h3>
+<h3 align="center">
+  <a href= "https://github.com/kamIRfarUK/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/>
+  </a>
+Github Stats 
+  <a href= "https://github.com/dilshan5/">
+    <img src="https://img.icons8.com/external-wanicon-two-tone-wanicon/64/000000/external-stats-online-shopping-wanicon-two-tone-wanicon.png"/>
+  </a>
+</h3>
 
+
+
+
+<br>
+  <div align=center>
+    <img width=390 src="https://github-readme-streak-stats-kamIRfarUK.vercel.app/?user=kamIRfarUK&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    <img width=390 src="https://github-readme-stats-kamIRfarUK.vercel.app/api?username=kamIRfarUK&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+    <img width=325 align="center" src="https://github-readme-stats-kamIRfarUK.vercel.app/api/top-langs/?username=kamIRfarUK&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  </div>
+
+  <br/><br/>
+
+  <hr/>
+
+<br/>
+
+
+
+<br/>
 <!--START_SECTION:activity-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamIRfarUK&layout=compact&hide=css,html&langs_count=16&theme=merko)
 
