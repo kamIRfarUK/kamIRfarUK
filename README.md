@@ -4,17 +4,45 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+kamIR+farUK;" />
 </h1>
+
+
+
+
+
+
 <!--<h1 align="center">hi i'm kamIRfarUk</h1>-->
 - currently learning: **Automation Testing**
 
 <h3 align="left">Connect with me:</h3>
-
+</div>
+ 
+<div align="center"> 
+  
+  <a href="https://linkedin.com/in/kamirfaruk/" target="_blank">
+    <img src="https://img.shields.io/badge/-Kamir%20Faruk-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/kamirfaruk/" target="_blank" />
+  </a>
+  <a href="https://github.com/kamIRfarUK" target="_blank">
+     <img src="https://img.shields.io/github/followers/kamIRfarUK?label=follow&style=social" target="_blank" />
+  </a> 
+  <a href="//leetcode.com/u/17kamIRfarUK/">
+        <img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" />
+  </a>   
+      <!--
+    <a href="mailto:pedro.sales.muniz@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+      -->
+  
+</div>
+<!--
 [![Linkedin Badge](https://img.shields.io/badge/-Kamir%20Faruk-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/kamirfaruk/)](https://www.linkedin.com/in/kamirfaruk/)
-
+-->
+<!--
 [![GitHub](https://img.shields.io/github/followers/kamIRfarUK?label=follow&style=social)](https://github.com/kamIRfarUK)
-
+-->
+<!--
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/17kamIRfarUK/)
-
+-->
 
 
 <h3 align="center"><img src="https://img.icons8.com/material/24/26e07f/programming.png"/></a> Programming Languages and
