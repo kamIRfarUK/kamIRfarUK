@@ -12,16 +12,16 @@
 
 <!--<h1 align="center">hi i'm kamIRfarUk</h1>-->
 - currently learning: **Automation Testing**
+<h3 align="left">Connect with me:</h3> 
 
-<h3 align="left">Connect with me:</h3>
 </div>
  
-<div align="center"> 
-  
-  <a href="https://linkedin.com/in/kamirfaruk/" target="_blank">
+<div > 
+ 
+  <a  href="https://linkedin.com/in/kamirfaruk/" target="_blank">
     <img src="https://img.shields.io/badge/-Kamir%20Faruk-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/kamirfaruk/" target="_blank" />
   </a>
-  <a href="https://github.com/kamIRfarUK" target="_blank">
+  <a  href="https://github.com/kamIRfarUK" target="_blank">
      <img src="https://img.shields.io/github/followers/kamIRfarUK?label=follow&style=social" target="_blank" />
   </a> 
   <a href="//leetcode.com/u/17kamIRfarUK/">
